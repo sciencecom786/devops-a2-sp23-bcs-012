@@ -40,3 +40,20 @@ footer {
     padding: 15px;
     color: #64748b;
 }
+
+nav {
+    text-align: center;
+    padding: 12px;
+    background-color: #dbeafe;
+}
+
+nav a {
+    color: #1d4ed8;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
