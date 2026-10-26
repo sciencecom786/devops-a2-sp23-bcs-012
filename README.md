@@ -25,3 +25,9 @@ the DevOps for Cloud Computing Lab Assignment 2.
 
 ## How to Run
 Open index.html in a web browser.
+
+## Project Files
+- index.html: Contains the portfolio content.
+- style.css: Contains the website styling.
+- Dockerfile: Will package the website for Docker.
+- .github/workflows/ci.yml: Will automate checks and image publishing.
